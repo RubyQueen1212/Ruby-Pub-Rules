@@ -1,0 +1,6 @@
+his folder contains information related to the Ruby Pub Discord server.
+To use this file, which mainly talks about the rules, please click on rules (or it may appear as rules.html).
+You probably won’t need to use the Media and otherfiles folders much.
+Media contains necessary photos and similar files for the document.
+In otherfiles, there are important files (such as CSS).
+Now, please open rules (or rules.html) to continue.
